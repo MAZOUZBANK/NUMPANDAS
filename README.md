@@ -1,5 +1,5 @@
 # NUMPANDAS
-Découverte de Numpy et Pandas (analyse et calcul de données)
+Découverte de Numpy et Pandas (analyse et calcul de données) + introduction à matplotlib
 
 ### Exercices de Manipulation de Données avec NumPy et pandas
 
@@ -29,6 +29,7 @@ Dans cet exercice, nous allons explorer des opérations plus avancées avec NumP
 4. Trouvez le produit des éléments non nuls du tableau.
 
 #### Partie 2 : pandas
+pip install pandas
 
 ##### Exercice 4 - Introduction à pandas et chargement de données
 Dans cette partie, nous allons explorer pandas en utilisant un DataFrame pour manipuler des données tabulaires.
