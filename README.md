@@ -51,3 +51,6 @@ Dans cet exercice, nous allons utiliser pandas en combinaison avec la bibliothè
 1. Utilisez le DataFrame et les résultats de l'exercice précédent pour tracer un diagramme à barres des moyennes de ventes par catégorie de produit.
 2. Tracez un histogramme des ventes pour un produit spécifique.
 
+![image](https://github.com/MAZOUZBANK/NUMPANDAS/assets/34750801/dc350a11-2b37-4465-bc2b-0ce782fd3698)
+
+
